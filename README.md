@@ -2,7 +2,7 @@
 A Power BI dashboard analyzing HR attrition trends, employee demographics, salary patterns &amp; key KPIs.
 
 
-![Hr-employee Attrition Dashboard](https://github.com/PriyaKumari6512/HR-Employee-Attrition-Dashboard)
+![Hr-employee Attrition Dashboard](https://github.com/user-attachments/assets/f0ba0732-3051-4890-8e7c-e1f98dbc3c40)
 
 # -HR-Employee-Attrition-Dashboard
 This repository contains a dashboard designed to analyze and visualize key metrics (KPIs) from an HR Employee Attrition dataset. The goal is to provide actionable insights for HR professionals by exploring employee data and meeting specific client requirements.
